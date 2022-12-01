@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @espe0606
-- 👀 I’m interested in python, algorithm, sql.
+- 👀 I’m interested in python, algorithm, data science and A.I.
 - 🌱 I’m currently learning how to improve my coding skill
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me: better through GIthub aswell
+- 📫 How to reach me: better through Github aswell
 
 <!---
 espe0606/espe0606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
